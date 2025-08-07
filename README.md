@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Sohom Das, a final-year B.Tech student (2025) who’s passionate about Java backend development. I'm currently working on a full-fledged Java Swing project – the Student Report Card Generator – that uses JDBC, connects to a MySQL database, and supports CSV export.<br><br>I'm actively learning and building in the areas of Java GUI (Swing), DSA, MySQL, and Git/GitHub. I love writing clean, modular code using OOP principles, and structuring beginner-friendly Java projects.<br><br>I’m looking for guidance and collaboration on topics like Java layout managers (especially GridBagLayout) and improving JDBC performance with good practices.<br><br>💬 You can ask me about how to get started with Java OOP, JDBC setup, or debugging Java code from scratch.<br><br>🎯 Fun fact: I’ve already completed two full-stack Java applications with GUI + DB + File Handling before even graduating! 💻🔥
+👋 Hi there! I'm Sohom Das, a B.Tech Undergrad'25 who’s passionate about Java backend development. I'm currently working on a full-fledged Java Swing project – the Student Report Card Generator – that uses JDBC, connects to a MySQL database, and supports CSV export.<br><br>I'm actively learning and building in the areas of Java GUI (Swing), DSA, MySQL, and Git/GitHub. I love writing clean, modular code using OOP principles, and structuring beginner-friendly Java projects.<br><br>I’m looking for guidance and collaboration on topics like Java layout managers (especially GridBagLayout) and improving JDBC performance with good practices.<br><br>💬 You can ask me about how to get started with Java OOP, JDBC setup, or debugging Java code from scratch.<br><br>🎯 Fun fact: I’ve already completed two full-stack Java applications with GUI + DB + File Handling before even graduating! 💻🔥
 
 
 ## 🌐 Socials:
@@ -7,6 +7,11 @@
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📁 Featured Projects
+
+### 🎓 [Student Report Card Generator](https://github.com/Sdas07/Student-ReportCard-Generator)
+Java Swing + JDBC + MySQL + CSV | A modular GUI app for report card generation, storage, and export.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sdas07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sdas07&theme=tokyonight&hide_border=false)<br/>
